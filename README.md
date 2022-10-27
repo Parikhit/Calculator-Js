@@ -3,5 +3,5 @@ A simple responsive calculator built using HTML, CSS and Javacript.
 
 # Screenshots
 
-![1](https://user-images.githubusercontent.com/42086563/198213510-994735aa-e43c-4b71-8826-eaa01f1c5a06.png)
-![2](https://user-images.githubusercontent.com/42086563/198213520-e09cee15-bd73-46d4-905c-6a98fb518e3f.png)
+![1](https://user-images.githubusercontent.com/42086563/198362242-e779aad6-8fff-4419-8932-252725f328af.jpg)
+![2](https://user-images.githubusercontent.com/42086563/198362260-3a2d2821-18ec-40e1-b46a-5ac7f8cc886e.jpg)
